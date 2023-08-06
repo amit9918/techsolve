@@ -16,7 +16,7 @@
 
 1. Opne XAMMP
 2. Start Apache and MySQL server
-3. Open browser and use the url `[http://localhost/techsolve](http://localhost/techsolve/)http://localhost/techsolve/` or enter your folder name inside htdocs where your project is present.
+3. Open browser and use the url `http://localhost/techsolve/` or enter your folder name inside htdocs where your project is present.
 
 or 
 
